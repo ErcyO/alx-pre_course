@@ -1,1 +1,2 @@
  amazing
+this is fun
